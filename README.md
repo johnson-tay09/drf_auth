@@ -6,14 +6,7 @@ Django has a powerful Object Relational Mapper that allows us to persist data us
 Today you’ll build out a project with one model and wire up that model using Django Views.
 
 ### Feature Tasks
-Set up a project in Django. Create a blog website using Models.
+Set up a project in Django. Create a blog website using Models.Add Gunicorn and authentication.
 
 ### Pull Request
-lab33 PR [https://github.c](https://github.com/johnson-tay09/django_models/pull/1)# drf_auth
-asd
-asdd
-asd
-ads
-ads
-ads
-ads
+lab33 PR [https://github.c](https://github.com/johnson-tay09/drf_auth/pull/1)
